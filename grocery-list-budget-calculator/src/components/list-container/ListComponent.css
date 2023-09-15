@@ -1,0 +1,10 @@
+.list-container{
+    margin: 30px;
+    border: 2px solid black;
+    padding: 20px 40px;
+    border-radius: 20px;
+}
+
+.fruits-title{
+    text-align: center;
+}
